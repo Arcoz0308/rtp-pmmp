@@ -1,0 +1,11 @@
+name: ArcRandomTP
+main: arclegrandroi\arcrtp\Main
+version: 1.0.0
+api: 3.0.0 
+
+commands:
+  rtp:
+    name: rtp
+    description: "teleport you to one random place"
+    
+    
