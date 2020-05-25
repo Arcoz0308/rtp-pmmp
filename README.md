@@ -2,13 +2,11 @@
 One random tp plugin for pmmp 
 
 ## features
-
-| you can config the max and min teleport zone |
-
-| you can chose two world where the random tp are alow |
+- [x] you can config the max and min teleport zone 
+- [x] you can chose two world where the random tp are alow 
 ## command 
 | name | description |
-
+| --- | --- |
 | `/rtp` |  teleport you to one random place |
 
  # config
