@@ -1,14 +1,14 @@
 ## rtp-pmmp
 One random tp plugin for pmmp 
 
-# features
+## features
 | --- | :-: | :-: |
 | you can config the max and min teleport zone |
 | you can chose two world where the random tp are alow |
-# command 
-|  name  |  description  | 
+## command 
+| name | description |
 | --- | :-: | :-: |
-|  /rtp  |  teleport you to one random place  | 
+| `/rtp` |  teleport you to one random place |
 
  # config
  ```yml
