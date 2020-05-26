@@ -27,5 +27,5 @@ bad_world: "you can't use this command in this world"
 
 #msg quand on utilise la commande depuis la console
 #message when you run this command with console
-in-game: "cette commande dois etre faite en jeu"
+in-game: "this command is must runing in game"
 ...
