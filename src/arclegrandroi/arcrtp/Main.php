@@ -18,8 +18,6 @@ class Main extends PluginBase {
    
     public function onEnable() {
           @mkdir($this->getDataFolder());
-
-        $this->getResource("config.yml");
     }
     public function onCommand(CommandSender $sender, Command $command, string $label, array $args): bool {
          if($command->getName() == "rtp") {
