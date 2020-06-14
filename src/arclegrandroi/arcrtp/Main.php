@@ -34,7 +34,7 @@ class Main extends PluginBase {
                     $x = mt_rand($xmin, $xmax);
                     $y = mt_rand($ymin, $ymax);
                     $z = mt_rand($zmin, $zmax);
-                    $sender->teleport(new position($x, $y ,$z));
+                    $sender->teleport(new position($x, $y ,$z, $sender->getLevel()));
                     $message = $this->getConfig()->get("teleportation");
                     $msg = str_replace(["{x}", "{y}", "{z}"], [$x, $y, $z], $message );  
                     $sender->sendMessage($msg);
