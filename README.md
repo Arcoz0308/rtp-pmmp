@@ -45,4 +45,3 @@ in-game: "this command is must runing in game"
 ...
 ```
 
-enjoy
