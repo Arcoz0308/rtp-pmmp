@@ -1,3 +1,7 @@
+# ⚠️ ARCHIVED ⚠️
+
+this repo is no longer maintained
+
 ## rtp-pmmp
 One random tp plugin for pmmp 
 
